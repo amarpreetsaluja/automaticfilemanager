@@ -1,4 +1,4 @@
-# automaticfilemanager
+# Automatic File Manager
 This is a program that sorts the files in your folder into separate folders of pdf files, text files, images etc.
 
 What the project does:
